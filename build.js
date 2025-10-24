@@ -5,7 +5,7 @@ const { marked } = require('marked');
 
 // --- STRATEGIC ENHANCEMENT: SITEMAP CONFIGURATION ---
 // IMPORTANT: Update this to your final production domain name.
-const baseUrl = 'https://www.your-apex-services.com';
+const baseUrl = 'https://www.phoenixsiterecovery.com';
 // --- END ---
 
 const postsDir = path.join(__dirname, 'posts');
