@@ -1,0 +1,8 @@
+# Node.js dependencies
+node_modules
+
+# Local build output (Cloudflare will generate its own)
+dist
+
+# OS-specific files
+.DS_Store
